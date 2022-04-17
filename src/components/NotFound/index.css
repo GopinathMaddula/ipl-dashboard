@@ -1,0 +1,14 @@
+.heading {
+  font-family: 'Bree serif';
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  min-height: 100vh;
+}
